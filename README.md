@@ -12,7 +12,7 @@
 
 [IAM Roles](IAM-Roles)
 
-[IAM Security Tools](IAM-Security-Tools)\
+[IAM Security Tools](IAM-Security-Tools)
 
 [IAM Shared Responsibility Model](Shared-Responsibility)
 
