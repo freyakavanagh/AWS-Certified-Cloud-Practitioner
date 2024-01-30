@@ -16,14 +16,14 @@
   
 - Least Privilege Principle:  don't give more permissions than a user needs.
 
-## IAM Policies Structure
+## IAM Policies
 
-- JSON document
+JSON document to define Uses, Groups or Roles' permissions
 
-## Permissions Policies
+### e.g.
 
-AdministratorAccess: Allows access to everything and anything.
-IAMReadOnlyAccess: Read anything on IAM but not edit/create
+- AdministratorAccess: Allows access to everything and anything.
+- IAMReadOnlyAccess: Read anything on IAM but not edit/create.
 
 ![](../Images/policiesstructure.png)
 
