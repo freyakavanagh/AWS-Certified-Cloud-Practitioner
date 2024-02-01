@@ -44,4 +44,18 @@
 
 [S3: Security](S3-Security)
 
+[S3: Static Website](S3-Static-Website)
 
+[S3: Replication](S3-Replication)
+
+[S3: Storage Classes](S3-Storage-Classes)
+
+[S3: Encryption](S3-Encryption)
+
+[S3: IAM Access Analyser](S3-IAM-Access-Analyser)
+
+[AWS Storage Gateway](Storage-Gateway)
+
+## Databases and Analytics
+
+[Databases](Databases)
