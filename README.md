@@ -59,3 +59,13 @@
 ## Databases and Analytics
 
 [Databases](Databases)
+
+[Databases: Shared Responsibility](Databases-Shared)
+
+[AWS RDS and Aurora](RDS-Aurora)
+
+[Amazon ElastiCache Overview](ElastiCache)
+
+[DB: DynamoDB](DB-DynamoDB)
+
+[DB: More Types](DB)
