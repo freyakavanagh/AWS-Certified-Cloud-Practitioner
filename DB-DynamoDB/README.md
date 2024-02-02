@@ -1,6 +1,6 @@
 # Database: DynamoDB
 
-- A fully managed highly available dtatabase with replication across 3 AZ's.
+- A fully managed highly available database with replication across 3 AZ's.
 - All the data is in one table, compared to RDS which is a relational DB with linked tables
 - NoSQL (not a relational database)
 - Distributes "serverless" database
