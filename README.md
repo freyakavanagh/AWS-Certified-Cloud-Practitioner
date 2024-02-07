@@ -69,3 +69,23 @@
 [DB: DynamoDB](DB-DynamoDB)
 
 [DB: More Types](DB)
+
+## Compute Services
+
+[Docker, ECS, Fargate, ECR](Docker)
+
+[Serverless](Serverless)
+
+[Lambda](Lambda)
+
+[Amazon API Gateway](API-Gateway)
+
+[AWS Batch](Batch)
+
+[Amazon Lightsail](Lightsail)
+
+## Deployments and Managing Infrastructure at Scale
+
+[CloudFormation and CDK](CloudFormation)
+
+[AWS Beanstalk](Beanstalk)
