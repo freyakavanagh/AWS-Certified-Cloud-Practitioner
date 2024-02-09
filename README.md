@@ -84,10 +84,18 @@
 
 [Amazon Lightsail](Lightsail)
 
-## Deployments and Managing Infrastructure at Scale
+## Deployment and Developer Services
 
 [CloudFormation and CDK](CloudFormation)
 
 [AWS Beanstalk](Beanstalk)
 
 [Code](Code)
+
+[SSM](SSM)
+
+## AWS Global Infrastructure
+
+[Global Application](Global)
+
+[Route 53](Route-53)

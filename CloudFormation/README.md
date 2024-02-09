@@ -2,7 +2,7 @@
 
 A declarative way of outlining your AWS infrastructure, for any resources (most are supported)
 
-e.g. within a CloudForjation template you say:
+e.g. within a CloudFormation template you say:
 
 - I want a security group
 - I want two EC2 instances that use the security group
