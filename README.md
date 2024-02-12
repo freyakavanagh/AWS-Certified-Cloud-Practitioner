@@ -99,3 +99,16 @@
 [Global Application](Global)
 
 [Route 53](Route-53)
+
+[CloudFront](CloudFront)
+
+[Global Services](Transfer-acceleration)
+
+## Cloud Integrations
+
+[Cloud Integration](Cloud-Integration)
+
+[Communication Models](Communication-Models)
+
+## Cloud Monitoring
+
