@@ -118,3 +118,14 @@
 
 [VPC](VPC)
 
+[VPC Services](VPC-Services)
+
+## Security and Compliance
+
+[Shared Responsibility Model](Shared-Responsibility-Model:Reminders)
+
+[DDOS](DDOS)
+
+[Encryption](Encryption)
+
+[Security and Compliance Services](Security-and-Compliance-Services)

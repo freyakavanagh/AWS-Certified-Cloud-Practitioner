@@ -1,6 +1,6 @@
 # VPC (Virtual Private Cloud)
 
-- A private network to deploy your (regional) resources within.
+- A private network to deploy your(regional) resources within.
 
 - Subnets: allow you to partition your network inside your VPC and is within/associated with an availibility zone.
   -  Can be public (accessable from the internet) or private (not accessible)
@@ -29,32 +29,6 @@
 ## IPv6
 
 - Only public addresses.
-
-# VPC Flow Logs
-
-- They capture information about IP traffic going into your interfaces.
-  - You can have VPC/Subnet/Elastic Network Interface Flow Logs
-- Helps to monitor and troubleshoot connectivity issues e.g. subnets not connecting to other subnets/ internet
-- Captures network information from AWS managed interfaces too e.g. Elastic load balancers, Aurora...
-- The flow logs can go to S3, CloudWatch Logs and Kinesis Data Firehouse
-
-# VPC Peering
-
-- Connects two VPC's privatly using AWS's network, to make them behave as if they were on the same network.
-- Must not have overlapping CIDR (IP address ranges).
-- The connection is not transitive (If A and B, and B and C are connected A and C cannot communicate until they are also connected.)
-
-# VPC Endpoints
-
-- Allow you to connect to AWS Services using a private network unstead of the public internet network.
-- Gives you better security and lower latency to access AWS services.
-- VPC Endpoint Gateway: For connecting to S3 and DynamoDB (outside the private subnet)
-- VPC Endpoint Interface: For connecting to the rest of the services (inside the private subnet)
-
-![](../Images/en.png)
-
-
-# AWS PrivateLink (A VPC Endpoint Service)
 
 
 
